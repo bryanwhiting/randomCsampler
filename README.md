@@ -1,2 +1,2 @@
 # randomCsampler
-Implements a random sampling algorithm from an odd distribution (Von Mises) 
+Implements a random sampling algorithm from the [von Mises](https://en.wikipedia.org/wiki/Von_Mises_distribution) distribution 
